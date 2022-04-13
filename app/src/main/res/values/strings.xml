@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticaU2.1</string>
+    <string name= "wowo">Hola</string>
+    <string name="ingrese_numero">ingrese numero</string>
+    <string name="invertir">Invertir</string>
+    <string name="ingrese_nombre">ingrese nombre</string>
+
+</resources>
